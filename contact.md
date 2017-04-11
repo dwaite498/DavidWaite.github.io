@@ -7,9 +7,10 @@ feature-img: "img/color.png"
 
 Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
 
-<form action="https://getsimpleform.com/messages?form_api_token=_yourtoken_" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=ee3e9f7b788d26b26036e09ca2a9b040" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://david-waite.com/thank-you/' />
+  <input type='hidden' name='redirect_to' value='http://dwaite498.github.io/thank-you.html' />
+  <!-- all your input fields here.... -->
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
