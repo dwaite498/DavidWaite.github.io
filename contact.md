@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-If you have any questions, comments, beekeeping tips, or historical trivia to share please use the form below and I will respond as soon as I can.
+If you have any questions or comments please use the form below and I will respond as soon as I can.
 
 <form action="https://getsimpleform.com/messages?form_api_token=ee3e9f7b788d26b26036e09ca2a9b040" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->

@@ -6,4 +6,4 @@ feature-img: "img/color.png"
 hide: true
 ---
 
-Thnak you for your message! Have a great day.
+Thnak you for your message, I get back to you soon.
