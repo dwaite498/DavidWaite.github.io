@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bloc Jams
-feature-img: "/portfolio-project/img/Blocipedia_sample.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
+feature-img: "/portfolio-project/img/BlocJamsIndex.png"
+thumbnail-path: "/img/BlocJamsAlbum.png"
 short-description: Bloc Jams is a music player app created with Angular.
 
 ---
@@ -10,7 +10,7 @@ short-description: Bloc Jams is a music player app created with Angular.
 Bloc Jams
 --------------
 
-Bocipedia is a project that was a part of the Bloc curriculum that was used to gain experience with creating users, interacting with CRUD actions,
+Bloc Jams is a project that was a part of the Bloc curriculum that was used to gain experience with creating users, interacting with CRUD actions,
 adressing authorization concerns, and changing user access based on different situations.
 
 Explanation

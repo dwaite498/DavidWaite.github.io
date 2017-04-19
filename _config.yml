@@ -6,7 +6,7 @@ url: "https://david-waite.com"
 theme_settings:
   # Meta
   title: David Waite
-  avatar: avatar.png
+  avatar: thumbphoto.jpg
   gravatar: # Email MD5 hash
   description: "David Waite Portfolio Programmer Ruby Rails" # used by search engines
 

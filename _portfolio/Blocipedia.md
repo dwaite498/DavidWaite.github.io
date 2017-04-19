@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocipedia
+title: 
 feature-img: "img/Blocipedia_sample.png"
 thumbnail-path: "img/Blocipedia_sample.png"
 short-description: Blocipedia is a wiki creation and collaboration app.
@@ -22,5 +22,5 @@ Problem
 The situation surrounding this project is that a client wanted an app that would allow users to create both paid and free accounts with which to collaborate
 on editable wiki pages. The client requested admin access to all posted wikis, private and public, and the ability to curate them as necessary for content.
 
-Solution
+[Solution](https://github.com/dwaite498/blocipedia-2)
 -----
