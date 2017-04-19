@@ -15,9 +15,13 @@ adressing authorization concerns, and changing user access based on different si
 
 Explanation
 -----
-I created this project with minimal provided code from Bloc. I had several coding mentors who assisted me throughout the process.
+I created this project with guided explanations and frequent code snippets provided by Bloc. This was the capstone project of my initial Front End training and
+I consider it an early example of a completed JS Angular app.
 
 Problem
 -----
-The situation surrounding this project is that a client wanted an app that would allow users to create both paid and free accounts with which to collaborate
-on editable wiki pages. The client requested admin access to all posted wikis, private and public, and the ability to curate them as necessary for content.
+The scenario for this project is that a client requested a music player app that was quick and responsive and allowed users to select from a list of albums and then
+select a song from inside the album.
+
+[Solution](https://github.com/dwaite498/bloc-jams-angular)
+-----
