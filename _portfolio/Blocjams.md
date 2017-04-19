@@ -20,7 +20,7 @@ I consider it an early example of a completed JS Angular app.
 
 Learning Outcomes
 -----
-In this project I was learning about the Angular
+In this project I was learning about the Angular framework and the basics of how it works. The frontend aspect of programming was something I struggled with 
 
 The scenario for this project is that a client requested a music player app that was quick and responsive and allowed users to select from a list of albums and then
 select a song from inside the album.
