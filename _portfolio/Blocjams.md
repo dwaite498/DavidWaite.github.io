@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bloc Jams
-feature-img: "/img/BlocJamsIndex.png"
-thumbnail-path: "/img/BlocJamsAlbum.png"
+feature-img: "img/BlocJamsIndex.png"
+thumbnail-path: "img/BlocJamsAlbum.png"
 short-description: Bloc Jams is a music player app created with Angular.
 
 ---
