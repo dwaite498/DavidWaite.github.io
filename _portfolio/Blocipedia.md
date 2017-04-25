@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title: Blocipedia
 feature-img: "img/Blocipedia_sample.png"
